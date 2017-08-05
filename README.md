@@ -2,9 +2,9 @@
 
 - Link: https://super-salarios-usp.now.sh
 
-Baseado nos dados raspados pelos alunos do professor @fmasanori:
+Baseado nos dados raspados pelos alunos do professor [Fernando Masanori](https://github.com/fmasanori):
 
-https://twitter.com/fmasanori/status/882387178571141121
+Conversa no Twitter com links para o script de raspagem: https://twitter.com/fmasanori/status/882387178571141121
 
 ![](./README.png)
 
