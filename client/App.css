@@ -1,0 +1,37 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #edecec;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+#App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+#App > section {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.Content {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 24px;
+}
+
+.Content > img {
+  max-width: 320px;
+  width: 45vw;
+}
+
+.AutoSizerWrapper {
+  flex: 1 1 auto;
+}
